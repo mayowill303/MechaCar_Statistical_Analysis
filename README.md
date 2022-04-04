@@ -1,9 +1,5 @@
 # MechaCar_Statistical_Analysis
-- Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes 
-- Collect summary statistics on the pounds per square inch (PSI) of thesuspension coils from the manufacturing lots 
-- Run t-tests to determine if the manufacturing lots are statistically different from the mean population 
-- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
-- For each statistical analysis, you’ll write a summary interpretation of the findings.
+Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes Collect summary statistics on the pounds per square inch (PSI) of thesuspension coils from the manufacturing lots Run t-tests to determine if the manufacturing lots are statisticallydifferent from the mean population Design a statistical study to compare vehicle performance of theMechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
 ![LM() Function](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/lm()%20function.jpg?raw=true)
@@ -33,3 +29,13 @@
 - The true mean of the sample is 1498.78 with a p-value 0.06.  Not enough evidence to reject the null hypothesis.
 - Lot 1 and Lot 3 the PSI values are no different from the population mean.  
 - Lot 2 sample mean is 1496.14 and p-Value is .347.  There is evidence that the suspension coil is different from the population mean.  Enough evidence to reject the null hypothesis. 
+
+## Design a Study Comparing the MechaCar to the Competition
+- The possible metrics we can test against are length/height/width of car, horsepower, MPG and pricing.  Seeking to find out if size/mpg/price correlate. 
+#### Hypothesis
+- Null Hypothesis (Ho): MechaCar is priced correctly based on its size and mpg.
+- Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on size and mpg.  
+#### Statistical Test
+- To confirm or deny correlation, employing multiple linear regression testing would be best solution.
+- This test would help determine competitive review of makes/models based on size/mpg do determine which element has substantial impact on price of vehicles.
+- We would need to determine this data for competitors to establish baseline.
