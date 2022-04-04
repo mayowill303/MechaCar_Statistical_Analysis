@@ -18,3 +18,10 @@ Perform multiple linear regression analysis to identify which variables in the d
 
 ### Deliverable 2 Statistical Summary
 - Lot 1 and Lot 2 are within design specifications and have close to the same mean and median. The variance of coils are 0.98 and 7.47 respectively, which is within the 100 PSI variance requirement.  Lot 3 shows the most variance and exceeds the manufacturers specs with a variance of 170.29.
+
+## T-Tests on Suspension Coils
+![SuspensionPSI Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/Suspension%24PSI_Screenshot.jpg)
+![Subset Lot 1 Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/Subset_Lot_1_Screenshot.jpg)
+![Subset Lot 2 Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/Subset_Lot_2_Screenshot.jpg)
+![Subset Lot 3 Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/subset_Lot_3_Screenshot.jpg)
+
