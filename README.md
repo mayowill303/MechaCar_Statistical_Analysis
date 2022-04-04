@@ -25,3 +25,7 @@ Perform multiple linear regression analysis to identify which variables in the d
 ![Subset Lot 2 Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/Subset_Lot_2_Screenshot.jpg)
 ![Subset Lot 3 Screenshot](https://github.com/mayowill303/MechaCar_Statistical_Analysis/blob/main/subset_Lot_3_Screenshot.jpg)
 
+### Deliverable 3 Statistical Summary
+- The true mean of the sample is 1498.78 with a p-value 0.06.  Not enough evidence to reject the null hypothesis.
+- Lot 1 and Lot 3 the PSI values are no different from the population mean.  
+- Lot 2 sample mean is 1496.14 and p-Value is .347.  There is evidence that the suspension coil is different from the population mean.  Enough evidence to reject the null hypothesis. 
